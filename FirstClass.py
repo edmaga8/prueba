@@ -15,4 +15,4 @@ fun= outer_fun('Chola')
 de adentro. 
 '''
 
-print outer_fun().__doc__
+'''Ahhh'''
